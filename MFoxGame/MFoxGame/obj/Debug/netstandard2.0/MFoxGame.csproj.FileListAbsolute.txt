@@ -1,0 +1,16 @@
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\bin\Debug\netstandard2.0\MFoxGame.deps.json
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\bin\Debug\netstandard2.0\MFoxGame.dll
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\bin\Debug\netstandard2.0\MFoxGame.pdb
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.csprojAssemblyReference.cache
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.csproj.CoreCompileInputs.cache
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.AssemblyInfoInputs.cache
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.AssemblyInfo.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.dll
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.pdb

@@ -1,0 +1,1 @@
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame.UWP\MFoxGame.UWP.csproj;x86
