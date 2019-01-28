@@ -1584,11 +1584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame.iOS\\MFoxGame.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame.iOS\\MFoxGame.iOS.csproj",
       "projectName": "MFoxGame.iOS",
-      "projectPath": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame.iOS\\MFoxGame.iOS.csproj",
+      "projectPath": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame.iOS\\MFoxGame.iOS.csproj",
       "packagesPath": "C:\\Users\\Maher's\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1605,8 +1605,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj": {
-              "projectPath": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj"
+            "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj": {
+              "projectPath": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj"
             }
           }
         }

@@ -1504,11 +1504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame.Android\\MFoxGame.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame.Android\\MFoxGame.Android.csproj",
       "projectName": "MFoxGame.Android",
-      "projectPath": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame.Android\\MFoxGame.Android.csproj",
+      "projectPath": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame.Android\\MFoxGame.Android.csproj",
       "packagesPath": "C:\\Users\\Maher's\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame.Android\\obj\\",
+      "outputPath": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1525,8 +1525,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj": {
-              "projectPath": "C:\\Users\\Maher's\\source\\repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj"
+            "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj": {
+              "projectPath": "C:\\Users\\Maher's\\Source\\Repos\\MFoxGame\\MFoxGame\\MFoxGame\\MFoxGame.csproj"
             }
           }
         }
