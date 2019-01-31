@@ -1,1 +1,1 @@
-C:\Users\Maher's\Source\Repos\MFoxGame\MFoxGame\MFoxGame.UWP\MFoxGame.UWP.csproj;x86
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame.UWP\MFoxGame.UWP.csproj;x86

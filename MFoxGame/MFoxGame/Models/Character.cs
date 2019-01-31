@@ -2,6 +2,8 @@
 using MFoxGame.ViewModels;
 using System;
 using System.Collections.Generic;
+using MFoxGame.Controllers;
+using MFoxGame.GameEngine;
 
 namespace MFoxGame.Models
 {
@@ -11,11 +13,30 @@ namespace MFoxGame.Models
         // Add in the actual attribute class
         public AttributeBase Attribute { get; set; }
 
+
+
+        // Create a default Character for the instantiation
+        private void CreateDefaultCharacter()
+        {
+            Name = "Unknown";
+            Description = "Unknown";
+            ImageURI = ItemsController.DefaultImageURICharacter;
+
+            Age = 0;
+            Level = 0;
+
+
+            //ImageURI = null;
+        }
+
+
+
         // Make sure Attribute is instantiated in the constructor
         public Character()
         {
             Attribute = new AttributeBase();
             Alive = true;
+            CreateDefaultCharacter();
         }
 
         // Create a new character, based on a passed in BaseCharacter
@@ -26,32 +47,52 @@ namespace MFoxGame.Models
             Name = newData.Name;
             Description = newData.Description;
             Level = newData.Level;
-            ExperienceTotal = newData.ExperienceTotal;
+            // Adding age
+            Age = newData.Age;
+
+            //  ExperienceTotal = newData.ExperienceTotal;
             ImageURI = newData.ImageURI;
-            Alive = newData.Alive;
+            //   Alive = newData.Alive;
 
             // Database information
             Guid = newData.Guid;
             Id = newData.Id;
 
             // Populate the Attributes
-            AttributeString = newData.AttributeString;
+            //      AttributeString = newData.AttributeString;
 
-            Attribute = new AttributeBase(newData.AttributeString);
+            //     Attribute = new AttributeBase(newData.AttributeString);
 
             // Set the strings for the items
-            Head = newData.Head;
-            Feet = newData.Feet;
-            Necklass = newData.Necklass;
-            RightFinger = newData.RightFinger;
-            LeftFinger = newData.LeftFinger;
-            Feet = newData.Feet;
+            //    Head = newData.Head;
+            //     Feet = newData.Feet;
+            //    Necklass = newData.Necklass;
+            //     RightFinger = newData.RightFinger;
+            //     LeftFinger = newData.LeftFinger;
+            //    Feet = newData.Feet;
         }
 
         // Create a new character, based on existing Character
+
         public Character(Character newData)
         {
             // Implement
+            CreateDefaultCharacter();
+        }
+
+
+        //1/29 i did this based on constructor for item called if needd
+        // needed to create a new item with set values
+        public Character(string name, string description, string imageuri, int age, int level)
+        {
+            CreateDefaultCharacter();
+
+            Name = name;
+            Description = description;
+            ImageURI = imageuri;
+
+            Age = age;
+            Level = level;
         }
 
         // Upgrades to a set level
@@ -66,7 +107,20 @@ namespace MFoxGame.Models
         {
 
             // Implement
-                return;
+            // Base information
+            Name = newData.Name;
+            Description = newData.Description;
+            Level = newData.Level;
+            // Adding age
+            Age = newData.Age;
+
+            //  ExperienceTotal = newData.ExperienceTotal;
+            ImageURI = newData.ImageURI;
+            //   Alive = newData.Alive;
+
+            // Database information
+            Guid = newData.Guid;
+            Id = newData.Id;
         }
 
         // Helper to combine the attributes into a single line, to make it easier to display the item as a string
@@ -157,7 +211,7 @@ namespace MFoxGame.Models
             // Implement
 
             // Get bonus from Items
-            
+
             return myReturn;
         }
 
@@ -182,7 +236,7 @@ namespace MFoxGame.Models
 
             // Implement
 
-            
+
             return myReturn;
         }
 
@@ -194,7 +248,7 @@ namespace MFoxGame.Models
 
             // Implement
 
-            
+
             return myReturn;
         }
 
@@ -210,7 +264,7 @@ namespace MFoxGame.Models
             // Implement
 
             // Drop all Items
-            
+
             return myReturn;
         }
 

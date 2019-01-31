@@ -42,16 +42,16 @@ namespace MFoxGame.Services
             // Implement
         }
 
-            // Tells the View Models to update themselves.
-            private void NotifyViewModelsOfDataChange()
+        // Tells the View Models to update themselves.
+        private void NotifyViewModelsOfDataChange()
         {
             // Implement
         }
 
-            public void InitializeDatabaseNewTables()
+        public void InitializeDatabaseNewTables()
         {
             // Implement
-            
+
             // Delete the tables
 
             // make them again
@@ -129,6 +129,13 @@ namespace MFoxGame.Services
 
         #region Character
         // Character
+
+        public async Task<bool> InsertUpdateAsync_Character(Character data)
+        {
+            // Implement
+
+            return false;
+        }
 
         // Conver to BaseCharacter and then add it
         public async Task<bool> AddAsync_Character(Character data)
@@ -232,10 +239,10 @@ namespace MFoxGame.Services
         public async Task<IEnumerable<Score>> GetAllAsync_Score(bool forceRefresh = false)
         {
             // Implement
-            return null ;
+            return null;
 
         }
 
-#endregion Score
+        #endregion Score
     }
 }

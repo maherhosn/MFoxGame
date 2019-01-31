@@ -2,10 +2,7 @@ C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Battle\AutoBattlePage.xaml.g.cs
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Battle\OpeningPage.xaml.g.cs
-C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterDeletePage.xaml.g.cs
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterDetailPage.xaml.g.cs
-C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterEditPage.xaml.g.cs
-C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterNewPage.xaml.g.cs
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharactersPage.xaml.g.cs
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Items\ItemDeletePage.xaml.g.cs
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Items\ItemDetailPage.xaml.g.cs
@@ -34,3 +31,6 @@ C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.dll
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.pdb
 C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\MFoxGame.csprojAssemblyReference.cache
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterDeletePage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterEditPage.xaml.g.cs
+C:\Users\Maher's\source\repos\MFoxGame\MFoxGame\MFoxGame\obj\Debug\netstandard2.0\Views\Characters\CharacterNewPage.xaml.g.cs

@@ -175,7 +175,7 @@ namespace MFoxGame.ViewModels
         // That allows the feature to work for both SQL and the MOCk datastores...
         public async Task<bool> InsertUpdateAsync(Item data)
         {
-            var myReturn = await DataStore.InsertUpdateAsync_Item(data);
+            var myReturn = await DataStore.UpdateAsync_Item(data);
             return myReturn;
         }
 

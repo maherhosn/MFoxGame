@@ -25,6 +25,8 @@ namespace MFoxGame.Models
             ImageURI = newData.ImageURI;
             Alive = newData.Alive;
 
+            // Adding Age
+            Age = newData.Age;
             // Database information
             Guid = newData.Guid;
             Id = newData.Id;
@@ -44,8 +46,8 @@ namespace MFoxGame.Models
         // Update character from the passed in data
         public void Update(BaseCharacter newData)
         {
-                return;
-        
+            return;
+
         }
 
     }

@@ -28,6 +28,7 @@ namespace MFoxGame.Controllers
 
         // Return the Default Image URI for the Local Image for an Item.
         public static string DefaultImageURI = "Item.png";
+        public static string DefaultImageURICharacter = "mellowfoxgamelogo1.PNG";
 
     }
 }
