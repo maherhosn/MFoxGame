@@ -3,7 +3,6 @@ using MFoxGame.ViewModels;
 using System;
 using System.Collections.Generic;
 using MFoxGame.Controllers;
-using MFoxGame.GameEngine;
 
 namespace MFoxGame.Models
 {
@@ -315,7 +314,7 @@ namespace MFoxGame.Models
         public int GetItemBonus(AttributeEnum attributeEnum)
         {
             var myReturn = 0;
-            Item myItem;
+            //Item myItem;
             // Implement
 
             return myReturn;

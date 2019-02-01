@@ -106,6 +106,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "MFoxGame.Android.dll" comes first in this list. */
+		"MFoxGame.Android.dll",
 		"FormsViewGroup.dll",
 		"MFoxGame.dll",
 		"Newtonsoft.Json.dll",
