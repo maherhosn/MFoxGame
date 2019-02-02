@@ -17,7 +17,7 @@ namespace MFoxGame.Models
         // Create a default Character for the instantiation
         private void CreateDefaultCharacter()
         {
-            Name = "Unknown";
+            Name = "Default";
             Description = "Unknown";
             ImageURI = ItemsController.DefaultImageURICharacter;
 
